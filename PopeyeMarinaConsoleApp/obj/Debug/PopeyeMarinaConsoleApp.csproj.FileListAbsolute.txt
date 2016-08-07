@@ -1,0 +1,6 @@
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaConsoleApp\bin\Debug\PopeyeMarinaConsoleApp.exe.config
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaConsoleApp\bin\Debug\PopeyeMarinaConsoleApp.exe
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaConsoleApp\bin\Debug\PopeyeMarinaConsoleApp.pdb
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaConsoleApp\obj\Debug\PopeyeMarinaConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaConsoleApp\obj\Debug\PopeyeMarinaConsoleApp.exe
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaConsoleApp\obj\Debug\PopeyeMarinaConsoleApp.pdb
