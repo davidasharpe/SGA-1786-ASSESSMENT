@@ -1,0 +1,262 @@
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\ApplicationInsights.config
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\csc.exe
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\vbc.exe
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.dll.config
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.pdb
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Owin.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Optimization.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Providers.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\WebGrease.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Optimization.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Providers.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.dll
+C:\Users\david\Documents\Visual Studio 2015\Projects\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.pdb
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.pdb
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\ApplicationInsights.config
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\csc.exe
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\vbc.exe
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.dll.config
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.pdb
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Owin.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Optimization.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Providers.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\WebGrease.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Optimization.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Providers.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Core.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Interfaces.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Linq.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Core.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Interfaces.xml
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Linq.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\ApplicationInsights.config
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\csc.exe
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\vbc.exe
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.dll.config
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\PopeyeMarinaWebApp.pdb
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Owin.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Core.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Interfaces.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Linq.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Optimization.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Providers.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\WebGrease.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Core.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Interfaces.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Reactive.Linq.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Optimization.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\System.Web.Providers.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.pdb
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.Migrations.initial.resources
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.Migrations.AddDate.resources
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\JuiceUI.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\JuiceUI.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.Migrations.initial.resources
+C:\Users\david\Dropbox\WEB DEVELOPMENT COURSE\1428 OBJECT ORIENTED WEB WEB DEVELOPMENT 1\PROJECTS\PopeyeMarina\PopeyeMarinaWebApp\obj\Debug\PopeyeMarinaWebApp.csproj.GenerateResource.Cache

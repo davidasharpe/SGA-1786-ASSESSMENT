@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="PopeyeMarinaWebApp.Admin1" %>
+<asp:Content ID="AdminContent" ContentPlaceHolderID="MainContent" runat="server">
+    <main>
+        <div class="row">
+                <div class="col-md-2">
+                    <asp:Image class="logo3" runat="server" ImageUrl="~/Content/Images/PopeyeMarinaLogo.png"/> 
+                </div>
+                <div class="col-md-10">
+                    <div style="float:right">
+                        <asp:Label ID="CurentDate" runat="server" Text="Label"></asp:Label>
+                    </div>
+                    <h1 style="margin-top:45px">Administration</h1>
+                </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <div ID="Sidebar" runat="server" style="padding-top:60px">
+                    <ul class="nav nav-pills" style="width:150px; background:#f8f8f8; padding:10px;">
+                        <li><a runat="server" href="~/Admin/Customers">Customers</a></li>
+                        <li><a runat="server" href="~/Admin/Boats">Boats</a></li>
+                        <li><a runat="server" href="~/Admin/Slips">Slips</a></li>
+                        <li><a runat="server" href="~/Admin/Docks">Docks</a></li>
+                        <li><a runat="server" href="~/Admin/Leases">Leases</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-10">
+                <asp:ContentPlaceHolder ID="SubContent" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </main>
+</asp:Content>

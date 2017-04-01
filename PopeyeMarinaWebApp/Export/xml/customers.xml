@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customers>
+  <customer>
+    <customerID>1</customerID>
+    <name>Barry Norris</name>
+    <address>Oxford st Bondi</address>
+    <phone>029777888</phone>
+    <email>bnorris@email.com</email>
+  </customer>
+  <customer>
+    <customerID>2</customerID>
+    <name>James Smith</name>
+    <address>New South Head Road Double Bay</address>
+    <phone>029888333</phone>
+    <email>jsmith@email.com</email>
+  </customer>  
+  <customer>
+    <customerID>3</customerID>
+    <name>Ron McDonald</name>
+    <address>Beach St Coogee</address>
+    <phone>029555111</phone>
+    <email>rmcdonald@email.com</email>
+  </customer>
+  <customer>
+    <customerID>4</customerID>
+    <name>Mary Bowman</name>
+    <address>Miller St North Sydney</address>
+    <phone>029888777</phone>
+    <email>mbowman@email.com</email>
+  </customer>
+  <customer>
+    <customerID>5</customerID>
+    <name>Anthony Searle</name>
+    <address>Atkinson St Cammerary</address>
+    <phone>029999333</phone>
+    <email>asearle@email.com</email>
+  </customer>
+</customers>
+
+

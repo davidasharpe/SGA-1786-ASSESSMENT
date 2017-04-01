@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PopeyeMarinaWebApp.Models.Customer">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAEAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopeyeMarinaWebApp.Models.Lease">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGABAQAAAAAAAAAIAAAAACgEAAAAAAAAAAAAEAgAAA=</HashCode>
+      <FileName>Models\Lease.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopeyeMarinaWebApp.Models.Boat">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAJAAgAAAAAAAAAABAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>Models\Boat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopeyeMarinaWebApp.Models.Dock">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAQAAAIAgAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Models\Dock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopeyeMarinaWebApp.Models.Slip">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Models\Slip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PopeyeMarinaWebApp.Models.BoatType">
+    <Position X="1.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Boat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

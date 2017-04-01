@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\bin\Debug\PopeyeMarinaClassLibrary.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\bin\Debug\PopeyeMarinaClassLibrary.pdb
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\bin\Debug\nunit.framework.xml
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\obj\Debug\PopeyeMarinaClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\obj\Debug\PopeyeMarinaClassLibrary.dll
+C:\Users\david\Desktop\PopeyeMarina\PopeyeMarinaClassLibrary\obj\Debug\PopeyeMarinaClassLibrary.pdb
